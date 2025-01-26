@@ -13,3 +13,37 @@ main()
 
 
 */
+
+/* 
+Q: What is a C function?
+A: A C function is a reusable block of code in the C programming language that performs a specific task.
+Functions allow you to divide a program into smaller, modular pieces, making it easier to read, manage, and debug.
+Functions are distinguished by parentheses that follow the function name.
+Examples: main() printf() calcIt() 
+The computer will always use main() as the first function in your program so put it first.
+*/
+
+/* #include <stdio.h> always goes before main() because it tells the computer how to interpret functions. */
+
+
+/* Characters and C */
+/* A character is any single character that your computer can represent.
+Most of the keys in center of a keyboard is a character. Your computer knows 256 different characters.
+Each character can be found on a ASCII table (pronounced ask-ee). 
+The ASCII Table maps characters and symbols to numeric values used by computers.
+
+Encoding Standard: 
+ASCII assigns a unique number (ranging from 0 to 127) to each character or symbol.
+
+Character Set: 
+Control Characters (0–31): Non-printable characters used for controlling devices (e.g., newline, tab).
+These characters are not visible on paper, but some of them are located on your keyboard.
+Examples: tab(\t), newline(\n),
+
+Printable Characters (32–126): Letters, numbers, punctuation marks, and symbols.
+These characters are visible on paper and located on your keyboard.
+
+Extended ASCII (128–255): Non-standard characters (e.g., accented letters, special symbols), used in some systems.
+These characters are foreign and not on your keyboard.
+Examples: ∀(math operator), é(accented character), €(euro sign)
+
