@@ -9,10 +9,9 @@ main()
     return 0;
 
 }
-/* Play with different specifiers tomorrow
+/* Play with different specifiers */
 
-
-*/
+/* Play with navigating directories using command prompts */
 
 /* 
 Q: What is a C function?
