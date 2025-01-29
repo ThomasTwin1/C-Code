@@ -42,6 +42,15 @@ Examples: tab(\t), newline(\n),
 Printable Characters (32–126): Letters, numbers, punctuation marks, and symbols.
 These characters are visible on paper and located on your keyboard.
 
+
+/* Floats */
+/* Floats are decimal point numbers. They represent money, weights, etc in C programming.
+Floats take more memory because they are designed to represent a much larger range of values and provide support for fractional values,
+which requires more complex encoding. 
+*/
+
+/* Integers */
+/* Integers are whole numbers without decimals and take up less memory.
 Extended ASCII (128–255): Non-standard characters (e.g., accented letters, special symbols), used in some systems.
 These characters are foreign and not on your keyboard.
 Examples: ∀(math operator), é(accented character), €(euro sign)
